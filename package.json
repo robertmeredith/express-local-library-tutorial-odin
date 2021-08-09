@@ -1,6 +1,9 @@
 {
   "name": "04-express-libraryapp-tutorial",
   "version": "0.0.0",
+  "engine": {
+    "node": "14.17.2"
+  },
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
